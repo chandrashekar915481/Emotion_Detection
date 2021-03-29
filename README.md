@@ -7,7 +7,7 @@ It has 35,000 images for training, testing and validation.
 Details about the model:
 The model has achieved 95% on training set and 66% on test set.
 
-#How to use the model:
+# How to use the model:
 Just download the model and load the model using following commands.
 
 model = tf.keras.models.load_model('./final_model.h5')
